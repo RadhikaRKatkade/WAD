@@ -1,0 +1,24 @@
+.container{
+    background-color: aquamarine;
+    width: min-content;
+    margin-top: 100px;
+}
+.container .card{
+    align-items: center;
+    padding: 40px;
+    border-radius: 65px;
+    /*width: fit-content;*/
+    text-decoration: none;
+}
+
+.container .card .form-group{
+    margin-top: 5px;
+    width: 50%;
+    height: 50%;
+}
+
+.container .card .form-group .btn{
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 5px;
+}
